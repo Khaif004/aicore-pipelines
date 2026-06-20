@@ -1,2 +1,3 @@
 let a = 20;
-console.log(a);
+
+const add = (x, y) => x + y;
